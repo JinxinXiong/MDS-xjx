@@ -1,0 +1,2 @@
+run RankSphere
+run RankCow
